@@ -1,0 +1,1 @@
+class kt3(name:String,color:String):kt1(name,color)
